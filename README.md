@@ -37,6 +37,7 @@ slizzai-unified-engine/
 ├── tests/                # Unit and integration tests
 └── README.md             # You're here!
 ```
+<img width="299" height="616" alt="image" src="https://github.com/user-attachments/assets/afc56e2c-06f5-43f8-b439-408457004cc8" />
 
 ## 🛠️ Use Cases
 
